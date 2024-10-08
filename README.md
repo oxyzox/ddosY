@@ -1,6 +1,6 @@
 # 💣 ddosY - DDoS Attack Tool 🚀
 
-**ddoY** is a customizable tool designed for simulating DDoS (Distributed Denial of Service) attacks. It allows you to send HTTP requests to a target server with options like fake IPs, attack limits, and multi-threading for high-speed attacks.
+**ddosY** is a customizable tool designed for simulating DDoS (Distributed Denial of Service) attacks. It allows you to send HTTP requests to a target server with options like fake IPs, attack limits, and multi-threading for high-speed attacks.
 
 ⚠️ **WARNING:** This tool is for educational purposes only. Unauthorized DDoS attacks are illegal and unethical. Use it responsibly.
 
