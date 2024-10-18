@@ -32,8 +32,8 @@ Before you start, ensure you have the following:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/oxyzox/ddoY.git
-    cd ddoY
+    git clone https://github.com/oxyzox/ddosY.git
+    cd ddosY
     ```
 
 2. **Install dependencies** (Optional):
